@@ -1,0 +1,7 @@
+CreatingDictOfDicts.py
+__pycache__/
+*.log
+*.pot
+*.pyc
+*.key
+*.csv
